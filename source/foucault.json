@@ -1,0 +1,197 @@
+[
+  {
+    "P957": "2130528236",
+    "P1104": 113,
+    "P577": "1954",
+    "P291": "Q90",
+    "label": "Maladie mentale et personnalité"
+  },
+  {
+    "P957": "2130582591",
+    "P1104": 120,
+    "P577": "1962",
+    "P291": "Q90",
+    "label": "Maladie mentale et psychologie"
+  },
+  {
+    "P291": "Q90",
+    "P123": "Q3392522",
+    "label": "Folie et Déraison. Histoire de la folie à l'âge Classique",
+    "P1104": 672,
+    "P577": "1961"
+  },
+  {
+    "P1104": 309,
+    "P577": "1964",
+    "P291": "Q90",
+    "label": "Histoire de la folie à l'âge classique"
+  },
+  {
+    "P957": "2070295826",
+    "P1104": 583,
+    "P577": "1972",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "label": "Histoire de la folie à l'âge classique. Folie et déraison"
+  },
+  {
+    "P957": "2130420885",
+    "P1104": 212,
+    "P577": "1963",
+    "P291": "Q90",
+    "P1680": "Une archéologie du regard médical",
+    "label": "Naissance de la clinique"
+  },
+  {
+    "P957": "2070327280",
+    "P1104": 256,
+    "P577": "1963",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "label": "Raymond Roussel"
+  },
+  {
+    "P957": "2070224848",
+    "P1104": 405,
+    "P577": "1966",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "P1680": "Une archéologie des sciences humaines",
+    "label": "Les Mots et les Choses"
+  },
+  {
+    "P957": "2851940651",
+    "P1104": 72,
+    "P577": "1966",
+    "P123": "Q3579326",
+    "P291": "Q90",
+    "label": "La Pensée du dehors"
+  },
+  {
+    "P957": "207026999X",
+    "P1104": 288,
+    "P577": "1969",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "label": "L'Archéologie du savoir"
+  },
+  {
+    "P957": "2851942085",
+    "P1104": 64,
+    "P577": "1970",
+    "P123": "Q3579326",
+    "P291": "Q90",
+    "label": "Sept propos sur le septième ange"
+  },
+  {
+    "P957": "2070277747",
+    "P1104": 88,
+    "P577": "1971",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "label": "L'Ordre du discours"
+  },
+  {
+    "P957": "2851942077",
+    "P1104": 90,
+    "P577": "1973",
+    "P123": "Q3579326",
+    "P291": "Q746415",
+    "label": "Ceci n'est pas une pipe"
+  },
+  {
+    "P957": "2070729680",
+    "P1104": 328,
+    "P577": "1975",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "label": "Surveiller et punir. Naissance de la prison"
+  },
+  {
+    "P957": "2070295893",
+    "P1104": 224,
+    "P577": "1976",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "serie": "b1",
+    "label": "Histoire de la sexualité, vol. 1 : La volonté de savoir"
+  },
+  {
+    "P957": "2070700569",
+    "P1104": 296,
+    "P577": "1984",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "serie": "b2",
+    "label": "Histoire de la sexualité, vol. 2 : L'usage des plaisirs"
+  },
+  {
+    "P957": "2070273822",
+    "P1104": 288,
+    "P577": "1984",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "serie": "b3",
+    "label": "Histoire de la sexualité, vol. 3 : Le souci de soi"
+  },
+  {
+    "P957": "2070738442",
+    "P1104": 864,
+    "P577": "1954",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "serie": "a1",
+    "label": "Dits et Écrits, vol. 1 : 1954-1969"
+  },
+  {
+    "P957": "2070739872",
+    "P1104": 848,
+    "P577": "1970",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "serie": "a2",
+    "label": "Dits et Écrits, vol. 2 : 1970-1975"
+  },
+  {
+    "P957": "2070739880",
+    "P1104": 848,
+    "P577": "1976",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "serie": "a3",
+    "label": "Dits et Écrits, vol. 3 : 1976-1979"
+  },
+  {
+    "P957": "2070739899",
+    "P1104": 912,
+    "P577": "1980",
+    "P123": "Q273819",
+    "P291": "Q90",
+    "serie": "a4",
+    "label": "Dits et Écrits, vol. 4 : 1980-1988"
+  },
+  {
+    "P957": "2711619648",
+    "P1104": 272,
+    "P577": "2008",
+    "P123": "Q3237914",
+    "P291": "Q90",
+    "label": "Kant. Anthropologie du point de vue pragmatique. Introduction à l’Anthropologie"
+  },
+  {
+    "P957": "287558040X",
+    "P1104": 382,
+    "P577": "1981",
+    "P123": "Q3402585",
+    "P1680": "Fonction de l'aveu en justice",
+    "label": "Mal faire, dire vrai"
+  },
+  {
+    "P957": "2711625095",
+    "P1104": 168,
+    "P577": "2013",
+    "P123": "Q3237914",
+    "P291": "Q90",
+    "label": "L'origine de l'herméneutique de soi"
+  }
+]
