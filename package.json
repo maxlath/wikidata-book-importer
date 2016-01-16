@@ -4,7 +4,8 @@
   "description": "experimentations to import books data from Wikipedia to Wikidata. Expects a wikidata-agent (https://github.com/maxlath/wikidata-agent) server to be running on port 4115",
   "main": "import.coffee",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "mkdir data && echo '{}' > lib/series_data.json"
   },
   "author": "maxlath",
   "license": "MIT",
