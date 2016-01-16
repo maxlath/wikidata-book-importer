@@ -1,0 +1,19 @@
+{
+  "name": "wikidata-book-importer",
+  "version": "1.0.0",
+  "description": "experimentations to import books data from Wikipedia to Wikidata. Expects a wikidata-agent (https://github.com/maxlath/wikidata-agent) server to be running on port 4115",
+  "main": "import.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maxlath",
+  "license": "MIT",
+  "dependencies": {
+    "bluereq": "^1.0.0",
+    "inv-loggers": "^3.0.1",
+    "isbn2": "^0.1.4",
+    "level-party": "^3.0.4",
+    "lodash": "^4.0.0",
+    "wikidata-sdk": "^2.2.1"
+  }
+}
